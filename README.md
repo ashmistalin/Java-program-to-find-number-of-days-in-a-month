@@ -66,5 +66,8 @@ Enter the month in number:12
 Enter the year:2004
 
 This month has 31 days.
-```
+
 Process finished with exit code 0
+```
+## RESULT:
+Thus the java program to find the number of days in a month is written and the output is verfied.
